@@ -7,6 +7,8 @@ public class HelloJava {
 		System.out.println("Hello java");
 		System.out.println("추가내용 ");
 		//주석
+		System.out.println("master가 추가");
+		//세번째 수정
 	}
 
 }
