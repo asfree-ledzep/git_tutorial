@@ -7,7 +7,7 @@ public class HelloJava {
 		System.out.println("Hello java");
 		System.out.println("추가내용 ");
 		//주석
-		//hotfix추가주석
+		//hotfix주석 수정
 	}
 
 }
